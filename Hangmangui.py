@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 25 09:02:46 2025
-
-@author: subhasri
-"""
 
 import tkinter as tk
 import random
