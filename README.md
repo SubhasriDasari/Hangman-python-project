@@ -4,10 +4,10 @@ Guess the hidden word, one letter at a time. You have a total of 15 attempts to 
 
 This is a Graphical User Interface (GUI) version of the classic Hangman game, built using Python and Tkinter.
 
-🧠 Objective
+ Objective:
 Guess the hidden word, one letter at a time. You have a total of 15 attempts to reveal all the letters in the word. If you guess the word before you run out of attempts, you win. Otherwise, you lose.
 
-🛠️ Features
+Features:
 Random Word Selection: The game randomly selects a word from a predefined list each time it starts.
 
 Masked Word Display: The word is shown as underscores (_) representing unguessed letters.
@@ -24,13 +24,12 @@ Attempt Tracking: Shows how many guesses are left.
 
 End-of-Game Alerts:
 
-🎉 If you win: "You guessed it! You survived!"
+ If you win: "You guessed it! You survived!"
 
-😢 If you lose: "You ran out of attempts. Word was '...'."
+If you lose: "You ran out of attempts. Word was '...'."
 
 Input Validation: Prevents non-letter or multi-character input.
-
-🧱 Technologies Used
+ Technologies Used:
 Language: Python
 
 GUI Library: Tkinter
